@@ -10,5 +10,5 @@ Meant to normalise collab file inter-references.
 
 * [Download](https://raw.githubusercontent.com/IPDU/RTU-CLOUD-LINKER-MSW/main/RTU-CLOUD-LINKER.bat) `RTU-CLOUD-LINKER.bat` file
 * Right click and *Run as administrator*
-* Visit `C:\IPIN_RTUCLOUD1\`
+* Visit `C:\RTUCLOUD1\`
 * Profit
